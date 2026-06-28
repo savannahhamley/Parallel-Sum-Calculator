@@ -1,0 +1,5 @@
+*.o
+*.out
+*.tar.gz
+out*.txt
+out_tiny.txt
