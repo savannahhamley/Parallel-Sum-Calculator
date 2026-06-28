@@ -9,7 +9,7 @@ How to Run Program:
         - main.c
         - all example files extracted from examples.tar.gz
         - README.txt
-    2. Compile on Odin using the commands:
+    2. Compile using the commands:
         make clean
 
         *clean ensures that no conflicting out files will interfere with the program. 
