@@ -1,6 +1,6 @@
 Name: Savannah Hamley
 ID Number: 811519334
-Assignment: CSCI 1730 Proj 4
+Parallel Sum Calculator
 How to Run Program:
     1. Ensure the following files are located in your directory:
         - Makefile
