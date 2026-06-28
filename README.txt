@@ -16,7 +16,7 @@ How to Run Program:
 
         make
     3. Run on a VCF node using a similar command:
-        ./proj4.out in1.txt out1.txt 10 1; diff out1.txt correctOut1.txt | wc -c;
+        ./proj.out in1.txt out1.txt 10 1; diff out1.txt correctOut1.txt | wc -c;
 
         The program will compute the diagonal sums in the appropriate size grid and number 
         of threads. 
