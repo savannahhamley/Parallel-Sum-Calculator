@@ -3,3 +3,8 @@
 *.tar.gz
 out*.txt
 out_tiny.txt
+*.o
+*.out
+*.tar.gz
+out*.txt
+out_tiny.txt
